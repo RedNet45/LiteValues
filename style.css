@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(23, 23, 23);
+    color:white;
+}
+
+
+table {
+    margin-left:10px;
+    border-collapse:collapse;
+    
+}
+
+
+td {
+    background-color:#262428;
+     padding-right:10px;
+
+}
+
+tr {
+    border:5px solid rgb(23, 23, 23);
+
+}
+
+
+h1 {
+    margin-left:20px;
+}
+
+
+nav a {
+    text-decoration:none;
+    margin-right:20px;
+    color:white;
+    border:2px solid grey;
+    border-radius:7px;
+    padding:5px 3px;
+   
+}
+
+html {
+     scroll-behavior:smooth;
+}
+
+span{
+    font-size:18px;
+    border-bottom:1px solid white;
+    font-weight:700;
+    margin-bottom:6px;
+    
+}
+
+
+p img{
+     margin-right:5px;
+        
+}
